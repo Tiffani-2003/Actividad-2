@@ -50,14 +50,6 @@ Visualización de resultados:
 
 Comparación de Números 
 
-https://github.com/Tiffani-2003/Actividad-2/blob/main/LOGICA.png
-
-document.getElementById('btn-comparar').addEventListener('click', () => {
-    const num1 = parseFloat(document.getElementById('input1').value);
-    const num2 = parseFloat(document.getElementById('input2').value);
-    const resultado = num1 > num2 ? `${num1} es mayor` : num1 < num2 ? `${num2} es mayor` : "Son iguales";
-    document.getElementById('resultado').textContent = resultado;
-});
 
 
 
