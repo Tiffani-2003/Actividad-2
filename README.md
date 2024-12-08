@@ -74,7 +74,7 @@ document.getElementById('btn-comparar').addEventListener('click', () => {
 
 ####CSS
 
-```Estilos
+```CSS
 /* Estilo general del cuerpo de la página */
 body {
     font-family: Arial, sans-serif;
