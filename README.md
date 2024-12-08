@@ -65,8 +65,8 @@ document.getElementById('btn-comparar').addEventListener('click', () => {
     <input type="text" id="nombres-usuario" placeholder="Nombres" required>
     <input type="date" id="fecha-usuario" required>
     <select id="ciudad-usuario" required>
+        <option value="Puyo">Puyo</option>
         <option value="Quito">Quito</option>
-        <option value="Guayaquil">Guayaquil</option>
     </select>
     <button type="button" id="registrar-btn">Registrar</button>
 </form>
