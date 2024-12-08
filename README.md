@@ -44,11 +44,6 @@ Operaciones lógicas:
 Visualización de resultados:
 - Presenta los usuarios registrados en una tabla de datos.
 
-###Código Destacado
-
-####Javascript
-
-Comparación de Números 
 
 
 
