@@ -26,3 +26,22 @@ registro.js        # Registro de usuarios
 resultados.js      # Visualización de datos
 
 README.md              # Documentación del proyecto
+
+
+### Implementación
+Funcionalidades
+
+ Pantalla de inicio: 
+- Despliega la información del estudiante de manera organizada y visualmente clara.
+
+Operaciones lógicas: 
+- Comparación de valores numéricos utilizando estructuras condicionales if.
+- Determinación del mes a través de la estructura switch.
+- Manejo de una lista dinámica de nombres empleando arreglos (arrays).
+
+ Registro de usuarios 
+- Formulario con validación para recopilar la información del usuario.
+- Campos solicitados: ID, número de cédula, nombres completos, fecha de nacimiento y ciudad.
+
+Visualización de resultados:
+- Presenta los usuarios registrados en una tabla de datos.
