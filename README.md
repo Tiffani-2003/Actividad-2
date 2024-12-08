@@ -47,8 +47,6 @@ Visualización de resultados:
 - Presenta los usuarios registrados en una tabla de datos.
 
 ###Código Destacado
-![]https://github.com/Tiffani-2003/Actividad-2/blob/main/LOGICA.png
-
 
 ####Javascript
 
