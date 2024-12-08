@@ -56,6 +56,22 @@ document.getElementById('btn-comparar').addEventListener('click', () => {
 });
 ```
 
+####HTML
+
+```HTML
+<form id="formulario">
+    <input type="text" id="id-usuario" placeholder="ID" required>
+    <input type="text" id="cedula-usuario" placeholder="Cédula" required>
+    <input type="text" id="nombres-usuario" placeholder="Nombres" required>
+    <input type="date" id="fecha-usuario" required>
+    <select id="ciudad-usuario" required>
+        <option value="Quito">Quito</option>
+        <option value="Guayaquil">Guayaquil</option>
+    </select>
+    <button type="button" id="registrar-btn">Registrar</button>
+</form>
+```
+
 
 
 
