@@ -52,6 +52,7 @@ Visualización de resultados:
 
 Comparación de Números 
 
+https://github.com/Tiffani-2003/Actividad-2/blob/main/LOGICA.png
 
 
 
